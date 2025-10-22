@@ -28,7 +28,7 @@ export default function SearchFilters() {
   };
 
   return (
-    <div className="sticky top-20 md:top-24 z-40 bg-white/95 backdrop-blur-md border-b border-gray-200 shadow-lg">
+    <div className="bg-white/95 backdrop-blur-md border-b border-gray-200 shadow-lg">
       <div className="container mx-auto px-4 py-4">
         {/* Mobile: Show/Hide Filters Button */}
         <button
